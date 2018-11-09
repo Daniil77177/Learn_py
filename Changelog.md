@@ -3,14 +3,12 @@
 <li>Created 5 files</li>
 <li>Write 'Hello_World'</li>
 </ol>
-
 <b>V_2</b>
 <ol>
 <li>Created TODO</li>
 <li>Created Changelog</li>
 <li>Edited README</li>
 </ol>
-
 <b>V_3</b>
 <ol>
 <li>Wrote a #1_Variables</li>
@@ -21,4 +19,10 @@
 <ol>
 <li>Make some changes (change type of TODO and Changelog)
 </li>
+</ol>
+<b>V_5</b>
+<ol>
+<li>Wrote Conditions</li>
+<li>Make code more readable</li>
+<li>Make some changes in code #3</li>
 </ol>
