@@ -26,3 +26,9 @@
 <li>Make code more readable</li>
 <li>Make some changes in code #3</li>
 </ol>
+<b>V_5.1</b>
+<ol>
+<li>New file 0.2.Random_modules</li>
+<li>Wrote #5_Cycles</li>
+<li>Some changes in previous code</li>
+</ol>

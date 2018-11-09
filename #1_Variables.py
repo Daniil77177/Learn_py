@@ -12,11 +12,12 @@ print(b)
 print(a + b) #Also u can do with them everything what u want
 #Add or subtract
 #Multiply or divide
-
+#You can change variable whenever you want
 
 print(a * b - 7) #Вы можете делать с переменными всё что захотите
 #Прибавлять или отнимать
 #Умножать или делить
+#Вы можете изменить переменную, когда вам захочется
 
 #Main types of variables (Основные типы переменных)
 #integger || Целочисленная переменная
@@ -26,8 +27,7 @@ print(a * b - 7) #Вы можете делать с переменными вс�
 
 
 
-
-
-
-
+#So u can convert variable too
+b = int()
+print(type(b)) #Print what is type of variale || Напечатать, что за тип переменной
 a = input("It's for pause terminal, press Enter, to quit")
