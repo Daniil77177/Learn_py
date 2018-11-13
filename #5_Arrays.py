@@ -21,4 +21,4 @@ print( a[2] ) #9
 print( a[3] ) #17
 
 print( a[4] ) #21
-a = input("Nevermind, press Enter to quit")
+input("Nevermind, press Enter to quit")
