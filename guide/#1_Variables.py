@@ -1,6 +1,6 @@
-#Переменные - это такая "коробка", куда вы можете положить всё что угодно
-#Variables - it's a "box", and you can put anything into this box
-
+#!Переменные - это такая "коробка", куда вы можете положить всё что угодно
+#!Variables - it's a "box", and you can put anything into this box
+# (#!) - shebang (theme for start) (тема для старта)
 a = 15 #U can put anything String("Hello"), integger(15), float(3.0), boolean(1 (or true))(0 (or false))
 print(a)
 

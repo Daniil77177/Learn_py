@@ -9,6 +9,14 @@
 
 a = 10
 b = 200
+#       Операции сравнения
+# == - равно (equal)
+# != - не равно (not equal)
+# > - больше (bigger)
+# < - меньше (smaller)
+# => - больше или равно (bigger or equal)
+# =< - меньше или равно (smaller or equal)
+
 if a>b:        
    
    #if(condition) || if(условие)
@@ -25,3 +33,9 @@ else:
 
 #Else always without condition
 #Else всегда без условия
+
+#       Логические операции
+#   1. and - возращает True, если оба вырадения равны
+if 2 == 2 and 3 == 3:
+    print("2 = 2 and 3 = 3")
+    

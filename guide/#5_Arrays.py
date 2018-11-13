@@ -1,7 +1,7 @@
-#Arrays (lists) in Python
-#Массивы (листы) в Python
+#!Arrays (lists) in Python
+#!Массивы (листы) в Python
 
-a = [5, 3,9,17,21]
+a = [5,3,9,17,21]
 #This is list
 #Это лист
 
