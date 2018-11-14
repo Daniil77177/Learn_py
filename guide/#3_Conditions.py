@@ -5,7 +5,8 @@
 
 #Let's learn it on example
 #Давайте выучим что-такое условие if на примере
-
+#if(operand operator operand): || if(операнд оператор операнд):
+# if 3 > 2:
 
 a = 10
 b = 200
@@ -19,7 +20,6 @@ b = 200
 
 if a>b:        
    
-   #if(condition) || if(условие)
     print("This text will not appear, because in our case a<b")
     print("Это сообщение не появится, потому что a<b")
 
@@ -38,4 +38,4 @@ else:
 #   1. and - возращает True, если оба вырадения равны
 if 2 == 2 and 3 == 3:
     print("2 = 2 and 3 = 3")
-    
+
