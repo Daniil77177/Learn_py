@@ -10,3 +10,21 @@
 for a in range(5):
     print("Hello, I'm cycle 'for' (iteration("+ str(a) + "))")
 
+
+#While 
+#Syntax:
+#while_condition
+i = 0
+while i<10:
+    print (i)
+    i+=2
+
+#for_IteratorVariable_(String or list or range):
+for j in 'hello world':
+    if j == 'w':
+        continue # Turn on next iteration
+    print(j * 2, end ="")
+#We can use else after for and while
+
+
+
